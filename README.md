@@ -1,1 +1,1 @@
-# HR_Analytics_Project
+The HR analytics dataset offers a comprehensive view of employee-related metrics within an organization. Analyzed using SQL and visualized with Power BI, the dataset provides insights into employee demographics, satisfaction levels, retention factors, and performance trends, aiding strategic decision-making in human resources management.
